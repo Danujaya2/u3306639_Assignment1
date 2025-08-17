@@ -7,6 +7,6 @@ This repository contains Assignment 1 for the Introduction to Information Techno
 - Files include written explanations, diagrams, and pseudocode.
 
 ## Author
-- Name: [Your Name]  
-- Student ID: uXXXXX  
+- Name: Danujaya  
+- Student ID: u3306639
 - Unit: Introduction to IT 
